@@ -1,5 +1,4 @@
 
-
 function addelement() {
     document.body.insertAdjacentHTML("beforeend", `<div id=particles-js></div>`)
     const particles = document.getElementById('particles-js')
